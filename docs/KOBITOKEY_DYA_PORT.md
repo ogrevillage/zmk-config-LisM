@@ -77,7 +77,9 @@
 ## L4 BT/DEVICE
 
 - P長押しでL4へ。左上Q/W/E/R/TでBluetooth 1〜5を選択。
-- Bluetooth前後切替・接続消去と`studio_unlock`・bootloader・resetを維持。
+- **小人キーと同様、L4の下2段は原則透過（`&trans`）**。LisMの管理・復旧用として例外的に、左下端に`&bootloader`を1つ、左下段2キー目に`&bt BT_CLR_ALL`を1つ、右下段に`&studio_unlock`を1つ残す。
+- **`&sys_reset`は2か所とも削除**。再起動は基板の物理RESETボタンを利用。右側の重複`&bootloader`も削除。
+- Bluetooth前後切替は小人キーの中段位置を維持し、接続先の全消去は通常操作中に誤発動しないようL4に限定。
 - Geonixの2.4GHzやRGBは対象外。
 
 ## L5 NUMBER2（今回の指定）
