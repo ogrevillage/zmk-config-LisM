@@ -1,4 +1,4 @@
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 200
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 100 // Scroll amount: 50% of previous 200 (encoder trial)
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
