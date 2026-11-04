@@ -12,6 +12,14 @@
         rotation-degrees = <0>;
         track-remainders;
 
+        // AUTO MOUSE: right (central) trackball activates L3 after 100 ms.
+        // Inactivity returns to the typing layer after 700 ms.
+        // Persisted DYA Studio overrides can supersede these defaults.
+        temp-layer-enabled;
+        temp-layer = <3>;
+        temp-layer-activation-delay-ms = <100>;
+        temp-layer-deactivation-delay-ms = <700>;
+
         temp-layer-transparent-behavior = <&trans>;
         temp-layer-kp-behavior = <&kp>;
         temp-layer-keep-keycodes = <LEFT_CONTROL LEFT_SHIFT LEFT_ALT LEFT_GUI RIGHT_CONTROL RIGHT_SHIFT RIGHT_ALT RIGHT_GUI>;
