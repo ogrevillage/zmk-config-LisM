@@ -1,0 +1,859 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="1800" viewBox="0 0 1580 1800" role="img" aria-label="LisM KobitoKey DYA keymap preview L0 to L5">
+<rect width="1580" height="1800" fill="#0D1526"/>
+<text x="45" y="66" fill="#F0F5FC" font-family="Arial, sans-serif" font-size="38" font-weight="bold">LisM × KobitoKey DYA</text>
+<text x="47" y="100" fill="#B0C0D7" font-family="Arial, sans-serif" font-size="17">All six layers · 40 keys + encoder + trackball · Draft only / not flashed</text>
+<path d="M45 120 H1535" stroke="#31435D"/>
+<rect x="45" y="142" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="71" y="181" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L0 · BASE</text>
+<text x="71" y="207" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">A+S → Tab     D+F → Eisu     J+K → Kana</text>
+<text x="73" y="236" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="438" y="236" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="71" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp Q</title>
+<text x="96.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Q</text>
+<rect x="128" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp W</title>
+<text x="153.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">W</text>
+<rect x="185" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp E</title>
+<text x="210.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">E</text>
+<rect x="242" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp R</title>
+<text x="267.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">R</text>
+<rect x="299" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp T</title>
+<text x="324.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">T</text>
+<rect x="436" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp Y</title>
+<text x="461.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Y</text>
+<rect x="493" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp U</title>
+<text x="518.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">U</text>
+<rect x="550" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp I</title>
+<text x="575.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">I</text>
+<rect x="607" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp O</title>
+<text x="632.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">O</text>
+<rect x="664" y="249" width="51" height="53" rx="7" fill="#33466E" stroke="#344963"/>
+<title>&amp;lt 4 P</title>
+<text x="689.5" y="276" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">P</text>
+<text x="689.5" y="294" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold L4</text>
+<rect x="71" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp A</title>
+<text x="96.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">A</text>
+<rect x="128" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp S</title>
+<text x="153.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">S</text>
+<rect x="185" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp D</title>
+<text x="210.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">D</text>
+<rect x="242" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F</title>
+<text x="267.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F</text>
+<rect x="299" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp G</title>
+<text x="324.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">G</text>
+<rect x="436" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp H</title>
+<text x="461.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">H</text>
+<rect x="493" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp J</title>
+<text x="518.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">J</text>
+<rect x="550" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp K</title>
+<text x="575.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">K</text>
+<rect x="607" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp L</title>
+<text x="632.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">L</text>
+<rect x="664" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp SEMI</title>
+<text x="689.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">;</text>
+<rect x="71" y="371" width="51" height="53" rx="7" fill="#23504F" stroke="#344963"/>
+<title>&amp;mt LSHIFT Z</title>
+<text x="96.5" y="398" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Z</text>
+<text x="96.5" y="416" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold Shift</text>
+<rect x="128" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp X</title>
+<text x="153.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">X</text>
+<rect x="185" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp C</title>
+<text x="210.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">C</text>
+<rect x="242" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp V</title>
+<text x="267.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">V</text>
+<rect x="299" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp B</title>
+<text x="324.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">B</text>
+<rect x="436" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N</title>
+<text x="461.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">N</text>
+<rect x="493" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp M</title>
+<text x="518.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">M</text>
+<rect x="550" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp COMMA</title>
+<text x="575.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">,</text>
+<rect x="607" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp DOT</title>
+<text x="632.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">.</text>
+<rect x="664" y="371" width="51" height="53" rx="7" fill="#23504F" stroke="#344963"/>
+<title>&amp;mt RSHIFT APOS</title>
+<text x="689.5" y="398" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">:</text>
+<text x="689.5" y="416" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold Shift</text>
+<path d="M71 446 H760" stroke="#30445E"/>
+<text x="71" y="468" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="71" y="481" width="51" height="53" rx="7" fill="#23504F" stroke="#344963"/>
+<title>&amp;mt LCTRL ESCAPE</title>
+<text x="96.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Esc</text>
+<text x="96.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold Ctrl</text>
+<rect x="128" y="481" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LWIN</title>
+<text x="153.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Win</text>
+<rect x="185" y="481" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LALT</title>
+<text x="210.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Alt</text>
+<rect x="242" y="481" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;msc SCRL_UP</title>
+<text x="267.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="267.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="299" y="481" width="51" height="53" rx="7" fill="#33466E" stroke="#344963"/>
+<title>&amp;lt 5 DEL</title>
+<text x="324.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">DEL</text>
+<text x="324.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold L5</text>
+<rect x="356" y="481" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp SPACE</title>
+<text x="381.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Space</text>
+<rect x="436" y="481" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp ENTER</title>
+<text x="461.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Enter</text>
+<rect x="493" y="481" width="51" height="53" rx="7" fill="#33466E" stroke="#344963"/>
+<title>&amp;lt 2 BACKSPACE</title>
+<text x="518.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BS</text>
+<text x="518.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold L2</text>
+<rect x="550" y="481" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;msc SCRL_UP</title>
+<text x="575.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="575.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="607" y="481" width="51" height="53" rx="7" fill="#1E2C41" stroke="#344963"/>
+<title>&amp;none</title>
+<text x="632.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">—</text>
+<text x="632.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">unused</text>
+<rect x="664" y="481" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp INT1</title>
+<text x="689.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Ro</text>
+<rect x="721" y="481" width="51" height="53" rx="7" fill="#23504F" stroke="#344963"/>
+<title>&amp;mt RCTRL SLASH</title>
+<text x="746.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">SLASH</text>
+<text x="746.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">hold Ctrl</text>
+<text x="72" y="590" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">Z and : = hold Shift  ·  / = hold Ctrl</text>
+<text x="72" y="622" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<rect x="810" y="142" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="836" y="181" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L1 · NUMBER</text>
+<text x="836" y="207" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">KobitoKey numerical layout</text>
+<text x="838" y="236" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="1203" y="236" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="836" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_BRACKET</title>
+<text x="861.5" y="276" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">@</text>
+<text x="861.5" y="294" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">JIS</text>
+<rect x="893" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_7</title>
+<text x="918.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">7</text>
+<rect x="950" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_8</title>
+<text x="975.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">8</text>
+<rect x="1007" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_9</title>
+<text x="1032.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">9</text>
+<rect x="1064" y="249" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_MINUS</title>
+<text x="1226.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">-</text>
+<rect x="1258" y="249" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp UP_ARROW</title>
+<text x="1340.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">↑</text>
+<rect x="1372" y="249" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="282" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="249" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_BRACKET</title>
+<text x="1454.5" y="276" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">@</text>
+<text x="1454.5" y="294" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">JIS</text>
+<rect x="836" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp INT3</title>
+<text x="861.5" y="337" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">¥</text>
+<text x="861.5" y="355" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">JIS</text>
+<rect x="893" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_4</title>
+<text x="918.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">4</text>
+<rect x="950" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_5</title>
+<text x="975.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">5</text>
+<rect x="1007" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_6</title>
+<text x="1032.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">6</text>
+<rect x="1064" y="310" width="51" height="53" rx="7" fill="#344662" stroke="#344963"/>
+<title>&amp;kp LS(MINUS)</title>
+<text x="1089.5" y="337" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">=</text>
+<text x="1089.5" y="355" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">shift+-</text>
+<rect x="1201" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_PLUS</title>
+<text x="1226.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">+</text>
+<rect x="1258" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_ARROW</title>
+<text x="1283.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">←</text>
+<rect x="1315" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp DOWN_ARROW</title>
+<text x="1340.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">↓</text>
+<rect x="1372" y="310" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp RIGHT_ARROW</title>
+<text x="1397.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">→</text>
+<rect x="1429" y="310" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="343" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="836" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_0</title>
+<text x="861.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">0</text>
+<rect x="893" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_1</title>
+<text x="918.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">1</text>
+<rect x="950" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_2</title>
+<text x="975.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">2</text>
+<rect x="1007" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp NUMBER_3</title>
+<text x="1032.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">3</text>
+<rect x="1064" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp PERIOD</title>
+<text x="1089.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">.</text>
+<rect x="1201" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_MULTIPLY</title>
+<text x="1226.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">×</text>
+<rect x="1258" y="371" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_SLASH</title>
+<text x="1283.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">/</text>
+<rect x="1315" y="371" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1372" y="371" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="371" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="404" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<path d="M836 446 H1525" stroke="#30445E"/>
+<text x="836" y="468" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="836" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="481" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="1032.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="1064" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1121" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1146.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="481" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="508" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="1340.5" y="526" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="1372" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1486" y="481" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1511.5" y="514" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<text x="837" y="590" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">Legend: · = transparent  ·  colored key = assigned</text>
+<text x="837" y="622" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<rect x="45" y="675" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="71" y="714" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L2 · FUNCTION</text>
+<text x="71" y="740" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">H J K L → ← ↑ ↓ →</text>
+<text x="73" y="769" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="438" y="769" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="71" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F1</title>
+<text x="96.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F1</text>
+<rect x="128" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F2</title>
+<text x="153.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F2</text>
+<rect x="185" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F3</title>
+<text x="210.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F3</text>
+<rect x="242" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F4</title>
+<text x="267.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F4</text>
+<rect x="299" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F5</title>
+<text x="324.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F5</text>
+<rect x="436" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F6</title>
+<text x="461.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F6</text>
+<rect x="493" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F7</title>
+<text x="518.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F7</text>
+<rect x="550" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F8</title>
+<text x="575.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F8</text>
+<rect x="607" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F9</title>
+<text x="632.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F9</text>
+<rect x="664" y="782" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F10</title>
+<text x="689.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F10</text>
+<rect x="71" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp TAB</title>
+<text x="96.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Tab</text>
+<rect x="128" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="153.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="185" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="210.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="242" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="267.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="299" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_ARROW</title>
+<text x="461.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">←</text>
+<rect x="493" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp UP_ARROW</title>
+<text x="518.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">↑</text>
+<rect x="550" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp DOWN_ARROW</title>
+<text x="575.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">↓</text>
+<rect x="607" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp RIGHT_ARROW</title>
+<text x="632.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">→</text>
+<rect x="664" y="843" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp F11</title>
+<text x="689.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">F11</text>
+<rect x="71" y="904" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_SHIFT</title>
+<text x="96.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Shift</text>
+<rect x="128" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="153.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="185" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="210.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="242" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="267.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="299" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="461.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="493" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="575.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="607" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="689.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<path d="M71 979 H760" stroke="#30445E"/>
+<text x="71" y="1001" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="71" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="96.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="128" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="153.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="185" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="210.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="242" y="1014" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="267.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="267.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="299" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="356" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="381.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="461.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="493" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="1014" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="575.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="575.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="607" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="689.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="721" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="746.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<text x="72" y="1123" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">F1–F11 · J/K swapped from older Geonix proposal</text>
+<text x="72" y="1155" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<rect x="810" y="675" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="836" y="714" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L3 · AUTO MOUSE</text>
+<text x="836" y="740" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">Automatic when right trackball moves</text>
+<text x="838" y="769" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="1203" y="769" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="836" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1064" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="782" width="51" height="53" rx="7" fill="#4C3B69" stroke="#344963"/>
+<title>&amp;mkp MB1</title>
+<text x="1283.5" y="809" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Left</text>
+<text x="1283.5" y="827" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">click</text>
+<rect x="1315" y="782" width="51" height="53" rx="7" fill="#4C3B69" stroke="#344963"/>
+<title>&amp;mkp MB3</title>
+<text x="1340.5" y="809" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="12" font-weight="600" fill="#F0F5FF">Middle</text>
+<text x="1340.5" y="827" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">click</text>
+<rect x="1372" y="782" width="51" height="53" rx="7" fill="#4C3B69" stroke="#344963"/>
+<title>&amp;mkp MB2</title>
+<text x="1397.5" y="809" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Right</text>
+<text x="1397.5" y="827" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">click</text>
+<rect x="1429" y="782" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="815" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="836" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1064" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1372" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="843" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="876" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="836" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1064" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1372" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="904" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1454.5" y="937" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<path d="M836 979 H1525" stroke="#30445E"/>
+<text x="836" y="1001" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="836" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="1014" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="1032.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="1064" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1121" y="1014" width="51" height="53" rx="7" fill="#33466E" stroke="#344963"/>
+<title>&amp;to 0</title>
+<text x="1146.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">BASE</text>
+<text x="1146.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">return</text>
+<rect x="1201" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="1014" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="1340.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="1372" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1397.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1429" y="1014" width="51" height="53" rx="7" fill="#33466E" stroke="#344963"/>
+<title>&amp;to 0</title>
+<text x="1454.5" y="1041" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">BASE</text>
+<text x="1454.5" y="1059" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">return</text>
+<rect x="1486" y="1014" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1511.5" y="1047" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<text x="837" y="1123" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">Auto layer: onset 100ms  ·  timeout 700ms (defaults)</text>
+<text x="837" y="1155" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<rect x="45" y="1208" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="71" y="1247" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L4 · BT / DEVICE</text>
+<text x="71" y="1273" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">Bluetooth profiles and recovery controls</text>
+<text x="73" y="1302" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="438" y="1302" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="71" y="1315" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_SEL 0</title>
+<text x="96.5" y="1342" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="96.5" y="1360" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_SEL 0</text>
+<rect x="128" y="1315" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_SEL 1</title>
+<text x="153.5" y="1342" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="153.5" y="1360" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_SEL 1</text>
+<rect x="185" y="1315" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_SEL 2</title>
+<text x="210.5" y="1342" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="210.5" y="1360" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_SEL 2</text>
+<rect x="242" y="1315" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_SEL 3</title>
+<text x="267.5" y="1342" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="267.5" y="1360" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_SEL 3</text>
+<rect x="299" y="1315" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_SEL 4</title>
+<text x="324.5" y="1342" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="324.5" y="1360" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_SEL 4</text>
+<rect x="436" y="1315" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="461.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="493" y="1315" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="1315" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="575.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="607" y="1315" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="1315" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="689.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="71" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="96.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="128" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="153.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="185" y="1376" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_PRV</title>
+<text x="210.5" y="1403" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="210.5" y="1421" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_PRV</text>
+<rect x="242" y="1376" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_NXT</title>
+<text x="267.5" y="1403" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="267.5" y="1421" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_NXT</text>
+<rect x="299" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="461.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="493" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="575.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="607" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="689.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="71" y="1437" width="51" height="53" rx="7" fill="#613848" stroke="#344963"/>
+<title>&amp;sys_reset</title>
+<text x="96.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">RESET</text>
+<rect x="128" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="153.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="185" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="210.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="242" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="267.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="299" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="461.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="493" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="575.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="607" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="1437" width="51" height="53" rx="7" fill="#613848" stroke="#344963"/>
+<title>&amp;sys_reset</title>
+<text x="689.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">RESET</text>
+<path d="M71 1512 H760" stroke="#30445E"/>
+<text x="71" y="1534" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="71" y="1547" width="51" height="53" rx="7" fill="#613848" stroke="#344963"/>
+<title>&amp;bootloader</title>
+<text x="96.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">BOOT</text>
+<rect x="128" y="1547" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;bt BT_CLR_ALL</title>
+<text x="153.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">BT</text>
+<text x="153.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">BT_CLR_ALL</text>
+<rect x="185" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="210.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="242" y="1547" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="267.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="267.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="299" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="324.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="356" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="381.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="436" y="1547" width="51" height="53" rx="7" fill="#234D61" stroke="#344963"/>
+<title>&amp;studio_unlock</title>
+<text x="461.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="12" font-weight="600" fill="#F0F5FF">Studio</text>
+<text x="461.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">unlock</text>
+<rect x="493" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="518.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="550" y="1547" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="575.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="575.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="607" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="632.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="664" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="689.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="721" y="1547" width="51" height="53" rx="7" fill="#613848" stroke="#344963"/>
+<title>&amp;bootloader</title>
+<text x="746.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">BOOT</text>
+<text x="72" y="1656" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">RESET and BOOT keys remain for recovery</text>
+<text x="72" y="1688" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<rect x="810" y="1208" width="740" height="515" rx="17" fill="#172339" stroke="#334A67"/>
+<text x="836" y="1247" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#F1F6FF">L5 · NUMBER2</text>
+<text x="836" y="1273" font-family="Arial,Meiryo,sans-serif" font-size="12.5" fill="#A4BBD6">Comma at N → 0     former lower 0 disabled</text>
+<text x="838" y="1302" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">LEFT</text>
+<text x="1203" y="1302" font-family="Arial,sans-serif" font-size="11" letter-spacing="1" fill="#79A9C4">RIGHT</text>
+<rect x="836" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N1</title>
+<text x="861.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">1</text>
+<rect x="893" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N2</title>
+<text x="918.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">2</text>
+<rect x="950" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N3</title>
+<text x="975.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">3</text>
+<rect x="1007" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N4</title>
+<text x="1032.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">4</text>
+<rect x="1064" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N5</title>
+<text x="1089.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">5</text>
+<rect x="1201" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N6</title>
+<text x="1226.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">6</text>
+<rect x="1258" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N7</title>
+<text x="1283.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">7</text>
+<rect x="1315" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N8</title>
+<text x="1340.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">8</text>
+<rect x="1372" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N9</title>
+<text x="1397.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">9</text>
+<rect x="1429" y="1315" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_SLASH</title>
+<text x="1454.5" y="1348" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">/</text>
+<rect x="836" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp TAB</title>
+<text x="861.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">Tab</text>
+<rect x="893" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="1376" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1064" y="1376" width="51" height="53" rx="7" fill="#344662" stroke="#344963"/>
+<title>&amp;kp LS(MINUS)</title>
+<text x="1089.5" y="1403" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">=</text>
+<text x="1089.5" y="1421" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">shift+-</text>
+<rect x="1201" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp APOS</title>
+<text x="1226.5" y="1403" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">:</text>
+<text x="1226.5" y="1421" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">JIS</text>
+<rect x="1258" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N4</title>
+<text x="1283.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">4</text>
+<rect x="1315" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N5</title>
+<text x="1340.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">5</text>
+<rect x="1372" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N6</title>
+<text x="1397.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">6</text>
+<rect x="1429" y="1376" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_MULTIPLY</title>
+<text x="1454.5" y="1409" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">×</text>
+<rect x="836" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp LEFT_SHIFT</title>
+<text x="861.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="14" font-weight="600" fill="#F0F5FF">Shift</text>
+<rect x="893" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="1437" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1064" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp INT3</title>
+<text x="1089.5" y="1464" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">¥</text>
+<text x="1089.5" y="1482" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">JIS</text>
+<rect x="1201" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N0</title>
+<text x="1226.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">0</text>
+<rect x="1258" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N1</title>
+<text x="1283.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">1</text>
+<rect x="1315" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N2</title>
+<text x="1340.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">2</text>
+<rect x="1372" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp N3</title>
+<text x="1397.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">3</text>
+<rect x="1429" y="1437" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_MINUS</title>
+<text x="1454.5" y="1470" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">-</text>
+<path d="M836 1512 H1525" stroke="#30445E"/>
+<text x="836" y="1534" font-family="Arial,sans-serif" font-size="11" fill="#91AECB">BOTTOM ROW / MODULES</text>
+<rect x="836" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="861.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="893" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="918.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="950" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="975.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1007" y="1547" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1032.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">ENC</text>
+<text x="1032.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">rotary</text>
+<rect x="1064" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1089.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1121" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1146.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1201" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1226.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1258" y="1547" width="51" height="53" rx="7" fill="#1C2B42" stroke="#344963"/>
+<title>&amp;trans</title>
+<text x="1283.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#6B829C">·</text>
+<rect x="1315" y="1547" width="51" height="53" rx="7" fill="#14535E" stroke="#55ABBA"/>
+<title>&amp;trans</title>
+<text x="1340.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">TB</text>
+<text x="1340.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">trackball</text>
+<rect x="1372" y="1547" width="51" height="53" rx="7" fill="#1E2C41" stroke="#344963"/>
+<title>&amp;none</title>
+<text x="1397.5" y="1574" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">—</text>
+<text x="1397.5" y="1592" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="9" fill="#B3CBDC">unused</text>
+<rect x="1429" y="1547" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp PERIOD</title>
+<text x="1454.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">.</text>
+<rect x="1486" y="1547" width="51" height="53" rx="7" fill="#23354F" stroke="#344963"/>
+<title>&amp;kp KP_PLUS</title>
+<text x="1511.5" y="1580" text-anchor="middle" font-family="Arial,Meiryo,sans-serif" font-size="18" font-weight="600" fill="#F0F5FF">+</text>
+<text x="837" y="1656" font-family="Arial,sans-serif" font-size="13" fill="#B8C9DE">Last row empty slot shown as —</text>
+<text x="837" y="1688" font-family="Arial,sans-serif" font-size="12" fill="#889DB6">Source: config/lism.keymap  ·  physical bindings 0–41</text>
+<text x="46" y="1785" fill="#8FA6C2" font-size="13" font-family="Arial,sans-serif">Module slots: ENC = rotary, TB = trackball. Auxiliary virtual scroll bindings 42–47 omitted. GitHub/DYA Studio keymap is not yet validated.</text>
+</svg>
