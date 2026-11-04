@@ -2,7 +2,7 @@ name: Build ZMK firmware
 on:
   workflow_dispatch:
   push:
-    branches: [ dya-studio_zmk-v0.4 ]
+    branches: [ dya-studio_zmk-v0.4, kobitokey-base-lism ]
     tags-ignore:
       - 'v*-dya*' # リリース用タグはrelease.yml側でビルドするので重複を避ける
     paths:
