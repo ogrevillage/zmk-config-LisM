@@ -1,5 +1,8 @@
 # LisM キーボード ファームウェア
 
+> **個人用の小人キー配列移植試作（未ビルド・未書き込み）**： [全レイヤーの配列図と変更点](docs/KOBITOKEY_DYA_PORT.md) / [キー定義](config/lism.keymap)。右トラックボール操作でL3 AUTO MOUSEに移行する設定を追加。公式DYAブランチや本体への変更ではありません。
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 自作キーボード LisMのファームウェアです。  
