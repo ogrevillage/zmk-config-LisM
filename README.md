@@ -8,6 +8,14 @@
 自作キーボード LisMのファームウェアです。  
 このブランチは[DYA Studio](https://studio.dya.cormoran.works/)に対応したブランチです。
 
+## 現在の配列図（コンボ付き）
+
+[LisM × KobitoKey DYA — SVG（L0〜L5／コンボ付き、L4保守キーを修正済み）](keymap-drawer/lism_kobitokey_combo_view.svg)
+
+![LisM配列図](keymap-drawer/lism_kobitokey_combo_view.svg)
+
+> 実機へは未書き込み・ビルド未確認。旧プレビューではなくこちらを最新版として確認してください。
+
 ## 生成されるファームウェア一覧
 
 | ファームウェア名                                 | 説明                                    |
