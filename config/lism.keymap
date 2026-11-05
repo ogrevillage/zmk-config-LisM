@@ -36,6 +36,21 @@
             tap-ms = <20>;
             bindings = <&kp RIGHT_BRACKET &kp NUHS &kp LEFT_ARROW>;
         };
+        // Consistent IME switching across all layers; leave mouse/number/BT modes after switch.
+        ime_eisu_base: ime_eisu_base {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            wait-ms = <30>;
+            tap-ms = <30>;
+            bindings = <&kp LANG2 &to 0>;
+        };
+        ime_kana_base: ime_kana_base {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            wait-ms = <30>;
+            tap-ms = <30>;
+            bindings = <&kp LANG1 &to 0>;
+        };
         emoji: emoji_macro {
             compatible = "zmk,behavior-macro";
             label = "EMOJI";
@@ -66,8 +81,8 @@
     // Physical positions 0-29 match KobitoKey_DYA. Layer 3 is auto mouse.
     combos {
         compatible = "zmk,combos";
-        combo_eisu { timeout-ms = <50>; key-positions = <12 13>; bindings = <&kp LANG2>; layers = <0 1 3 5>; };
-        combo_kana { timeout-ms = <50>; key-positions = <16 17>; bindings = <&kp LANG1>; layers = <0 1 5>; };
+        combo_eisu { timeout-ms = <50>; key-positions = <2 3>; bindings = <&ime_eisu_base>; }; // E+R, all layers
+        combo_kana { timeout-ms = <50>; key-positions = <6 7>; bindings = <&ime_kana_base>; }; // U+I, all layers
         combo_esc { timeout-ms = <50>; key-positions = <0 1>; bindings = <&kp ESC>; layers = <0>; };
         combo_tab { timeout-ms = <50>; key-positions = <10 11>; bindings = <&kp TAB>; layers = <0>; };
         combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0>; };
@@ -117,8 +132,8 @@
         layer_3 {
             display-name = "L3 AUTO MOUSE";
             bindings = <
-                &trans                &trans                &trans                &trans                &trans                &trans                &mkp MB1              &mkp MB3              &mkp MB2              &trans
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
+                &trans                &trans                &trans                &trans                &trans                &trans                &mkp MB1              &mkp MB2              &mkp MB3              &trans
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &to 0                 &trans                &trans                &trans                &trans                &to 0                 &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
