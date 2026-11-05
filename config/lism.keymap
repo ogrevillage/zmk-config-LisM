@@ -81,8 +81,8 @@
     // Physical positions 0-29 match KobitoKey_DYA. Layer 3 is auto mouse.
     combos {
         compatible = "zmk,combos";
-        combo_eisu { timeout-ms = <50>; key-positions = <2 3>; bindings = <&ime_eisu_base>; layers = <0 1 3 5>; }; // E+R, BASE/NUMBER/AUTO MOUSE/NUMBER2
-        combo_kana { timeout-ms = <50>; key-positions = <6 7>; bindings = <&ime_kana_base>; layers = <0 1 3 5>; }; // U+I, BASE/NUMBER/AUTO MOUSE/NUMBER2
+        combo_eisu { timeout-ms = <50>; key-positions = <11 12>; bindings = <&ime_eisu_base>; layers = <0 1 3 5>; }; // S+D, BASE/NUMBER/AUTO MOUSE/NUMBER2
+        combo_kana { timeout-ms = <50>; key-positions = <17 18>; bindings = <&ime_kana_base>; layers = <0 1 3 5>; }; // K+L, BASE/NUMBER/AUTO MOUSE/NUMBER2
         combo_esc { timeout-ms = <50>; key-positions = <0 1>; bindings = <&kp ESC>; layers = <0>; };
         combo_tab { timeout-ms = <50>; key-positions = <10 11>; bindings = <&kp TAB>; layers = <0>; };
         combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0>; };
