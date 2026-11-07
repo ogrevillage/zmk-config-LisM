@@ -85,7 +85,7 @@
         combo_kana { timeout-ms = <50>; key-positions = <17 18>; bindings = <&ime_kana_base>; layers = <0 1 3 5>; }; // K+L, BASE/NUMBER/AUTO MOUSE/NUMBER2
         combo_esc { timeout-ms = <50>; key-positions = <0 1>; bindings = <&kp ESC>; layers = <0>; };
         combo_tab { timeout-ms = <50>; key-positions = <10 11>; bindings = <&kp TAB>; layers = <0>; };
-        combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0 1>; };
+        combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0 1 5>; };
         combo_at { timeout-ms = <50>; key-positions = <13 16>; bindings = <&kp LEFT_BRACKET>; layers = <0>; };
         combo_paren_pair { timeout-ms = <50>; key-positions = <18 19>; bindings = <&paren_pair>; layers = <0 1 5>; };
         combo_bracket_pair { timeout-ms = <50>; key-positions = <28 29>; bindings = <&bracket_pair>; layers = <0 1 5>; };
