@@ -82,10 +82,10 @@
     combos {
         compatible = "zmk,combos";
         // IME switching keeps the current number layer; only AUTO MOUSE returns to BASE.
-        combo_eisu { timeout-ms = <50>; key-positions = <11 12>; bindings = <&kp LANG2>; layers = <0 1 5>; }; // S+D, BASE/NUMBER/NUMBER2
-        combo_kana { timeout-ms = <50>; key-positions = <17 18>; bindings = <&kp LANG1>; layers = <0 1 5>; }; // K+L, BASE/NUMBER/NUMBER2
-        combo_eisu_mouse { timeout-ms = <50>; key-positions = <11 12>; bindings = <&ime_eisu_base>; layers = <3>; }; // S+D, AUTO MOUSE -> BASE
-        combo_kana_mouse { timeout-ms = <50>; key-positions = <17 18>; bindings = <&ime_kana_base>; layers = <3>; }; // K+L, AUTO MOUSE -> BASE
+        combo_eisu { timeout-ms = <50>; key-positions = <11 13>; bindings = <&kp LANG2>; layers = <0 1 5>; }; // S+F, BASE/NUMBER/NUMBER2
+        combo_kana { timeout-ms = <50>; key-positions = <16 18>; bindings = <&kp LANG1>; layers = <0 1 5>; }; // J+L, BASE/NUMBER/NUMBER2
+        combo_eisu_mouse { timeout-ms = <50>; key-positions = <11 13>; bindings = <&ime_eisu_base>; layers = <3>; }; // S+F, AUTO MOUSE -> BASE
+        combo_kana_mouse { timeout-ms = <50>; key-positions = <16 18>; bindings = <&ime_kana_base>; layers = <3>; }; // J+L, AUTO MOUSE -> BASE
         combo_esc { timeout-ms = <50>; key-positions = <0 1>; bindings = <&kp ESC>; layers = <0>; };
         combo_tab { timeout-ms = <50>; key-positions = <10 11>; bindings = <&kp TAB>; layers = <0>; };
         combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0 1 5>; };
