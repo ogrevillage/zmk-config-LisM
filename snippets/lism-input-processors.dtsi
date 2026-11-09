@@ -13,12 +13,12 @@
         track-remainders;
 
         // AUTO MOUSE: right (central) trackball activates L3 after 100 ms.
-        // Inactivity returns to the typing layer after 700 ms.
+        // Inactivity returns to the typing layer after 1500 ms.
         // Persisted DYA Studio overrides can supersede these defaults.
         temp-layer-enabled;
         temp-layer = <3>;
         temp-layer-activation-delay-ms = <100>;
-        temp-layer-deactivation-delay-ms = <700>;
+        temp-layer-deactivation-delay-ms = <1500>;
 
         temp-layer-transparent-behavior = <&trans>;
         temp-layer-kp-behavior = <&kp>;
