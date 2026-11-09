@@ -104,7 +104,7 @@
                 &kp Q                 &kp W                 &kp E                 &kp R                 &kp T                 &kp Y                 &kp U                 &kp I                 &kp O                 &lt 4 P
                 &kp A                 &kp S                 &kp D                 &kp F                 &kp G                 &kp H                 &kp J                 &kp K                 &kp L                 &kp SEMI
                 &mt LSHIFT Z          &kp X                 &kp C                 &kp V                 &kp B                 &kp N                 &kp M                 &kp COMMA             &kp DOT               &mt RSHIFT APOS
-                &mt LCTRL ESCAPE      &kp LWIN              &kp LALT              &msc MOVE_Y(20)       &lt 5 DEL             &kp SPACE             &kp ENTER             &lt 2 BACKSPACE       &msc SCRL_UP          &none                 &kp INT1              &mt RCTRL SLASH
+                &mt LCTRL ESCAPE      &kp LWIN              &kp LALT              &msc MOVE_Y(20)       &lt 5 DEL             &kp SPACE             &kp ENTER             &lt 2 BACKSPACE       &msc SCRL_UP          &none                 &mt RGUI INT1         &mt RCTRL SLASH
                 &msc MOVE_X(-20)      &msc MOVE_Y(-20)      &msc MOVE_X(20)       &msc SCRL_LEFT        &msc SCRL_DOWN        &msc SCRL_RIGHT
             >;
             sensor-bindings = <&rsr_scrl &rsr_scrl>;
