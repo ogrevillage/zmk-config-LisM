@@ -6,6 +6,7 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/pointing.h>
 #include <dt-bindings/zmk/mouse.h>
+#include <dt-bindings/zmk/modifiers.h>
 #include <behaviors/runtime-sensor-rotate.dtsi>
 #include <behaviors/default_layer.dtsi>
 #include <dt-bindings/zmk_behavior_default_layer/default_layer.h>
@@ -64,6 +65,24 @@
     };
 
     behaviors {
+        // L0 A: Left Alt + A acts as Alt+Tab, but any other held modifier
+        // (Ctrl, Shift, Win, right Alt) keeps the original A key.
+        alt_a_tab: alt_a_tab {
+            compatible = "zmk,behavior-mod-morph";
+            #binding-cells = <0>;
+            bindings = <&kp A>, <&kp TAB>;
+            mods = <MOD_LALT>;
+            keep-mods = <MOD_LALT>;
+        };
+
+        alt_only_a: alt_only_a {
+            compatible = "zmk,behavior-mod-morph";
+            #binding-cells = <0>;
+            bindings = <&alt_a_tab>, <&kp A>;
+            mods = <(MOD_LCTL | MOD_RCTL | MOD_LSFT | MOD_RSFT | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
+            keep-mods = <(MOD_LCTL | MOD_RCTL | MOD_LSFT | MOD_RSFT | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
+        };
+
         encoder_kp: sensor_rotate_kp {
             compatible = "zmk,behavior-sensor-rotate-var";
             #sensor-binding-cells = <2>;
@@ -102,7 +121,7 @@
             display-name = "L0 BASE";
             bindings = <
                 &kp Q                 &kp W                 &kp E                 &kp R                 &kp T                 &kp Y                 &kp U                 &kp I                 &kp O                 &lt 4 P
-                &kp A                 &kp S                 &kp D                 &kp F                 &kp G                 &kp H                 &kp J                 &kp K                 &kp L                 &kp SEMI
+                &alt_only_a           &kp S                 &kp D                 &kp F                 &kp G                 &kp H                 &kp J                 &kp K                 &kp L                 &kp SEMI
                 &mt LSHIFT Z          &kp X                 &kp C                 &kp V                 &kp B                 &kp N                 &kp M                 &kp COMMA             &kp DOT               &mt RSHIFT APOS
                 &mt LCTRL ESCAPE      &kp LWIN              &kp LALT              &msc MOVE_Y(20)       &lt 5 DEL             &kp SPACE             &kp ENTER             &lt 2 BACKSPACE       &msc SCRL_UP          &none                 &mt RGUI INT1         &mt RCTRL SLASH
                 &msc MOVE_X(-20)      &msc MOVE_Y(-20)      &msc MOVE_X(20)       &msc SCRL_LEFT        &msc SCRL_DOWN        &msc SCRL_RIGHT
@@ -138,7 +157,7 @@
             // I / comma: vertical wheel up/down for Ctrl+wheel zoom, fine step 10.
             bindings = <
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &msc MOVE_Y(10)                &trans                &trans
-                &trans                &trans                &trans                &trans                &trans                &trans                &mkp MB1              &mkp MB3              &mkp MB2              &trans
+                &kp A                 &trans                &trans                &trans                &trans                &trans                &mkp MB1              &mkp MB3              &mkp MB2              &trans
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &msc MOVE_Y(-10)                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &to 0                 &trans                &trans                &trans                &trans                &to 0                 &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
@@ -149,7 +168,7 @@
             display-name = "L4 BT/DEVICE";
             bindings = <
                 &bt BT_SEL 0          &bt BT_SEL 1          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4          &trans                &trans                &trans                &trans                &trans
-                &trans                &trans                &bt BT_PRV            &bt BT_NXT            &trans                &trans                &trans                &trans                &trans                &trans
+                &kp A                 &trans                &bt BT_PRV            &bt BT_NXT            &trans                &trans                &trans                &trans                &trans                &trans
                 &trans            &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &bootloader           &bt BT_CLR_ALL        &trans                &trans                &trans                &trans                &studio_unlock        &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
