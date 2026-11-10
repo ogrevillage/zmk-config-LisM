@@ -34,11 +34,43 @@
     device = <&trackball_central>;
     input-processors = 
         <&zip_xy_transform (INPUT_TRANSFORM_X_INVERT | INPUT_TRANSFORM_Y_INVERT) 
-         &mouse_runtime_input_processor_central>;
+         &mouse_runtime_input_processor_central
+         &zip_temp_layer 3 1500>;
 };
 
 &scroll_runtime_input_processor {
         x-codes = <INPUT_REL_X>;
 		y-codes = <INPUT_REL_Y>;
 		xy-to-scroll-enabled;
+};
+
+// AUTO MOUSE: every pointer move, mouse button press/release,
+// and L3 wheel input refreshes the SAME 1,500ms inactivity timer.
+&zip_temp_layer {
+    // Keep L3 while mouse click / wheel and modifier keys are used.
+    // Ordinary text keys still exit L3 immediately.
+    require-prior-idle-ms = <100>;
+    excluded-positions = <
+        7        // I (L3 wheel up)
+        16 17 18 // J/K/L mouse clicks
+        27       // comma (L3 wheel down)
+        20 29    // Shift / right Shift mod-taps
+        30 31 32 // left Ctrl, Win, Alt
+        40 41    // right Win / right Ctrl mod-taps
+        33 38    // L0 left-stick up / right module scroll
+        42 43 44 45 46 47 // left stick scroll and auxiliary wheel actions
+    >;
+};
+
+&mkp_input_listener {
+    input-processors = <&zip_temp_layer 3 1500>;
+};
+
+&msc_input_listener {
+    // Only scrolls during L3 refresh the mouse layer; L0 joystick scroll
+    // does not activate L3 by itself.
+    automouse_scroll_refresh {
+        layers = <3>;
+        input-processors = <&zip_temp_layer 3 1500>;
+    };
 };
