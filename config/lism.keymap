@@ -66,7 +66,7 @@
 
     behaviors {
         // L0 A: Left Alt + A acts as Alt+Tab, but any other held modifier
-        // (Ctrl, Shift, Win, right Alt) keeps the original A key.
+        // (Ctrl, Win, right Alt) keeps the original A key; Shift+LeftAlt+A reverses Tab.
         alt_a_tab: alt_a_tab {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
@@ -79,8 +79,8 @@
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&alt_a_tab>, <&kp A>;
-            mods = <(MOD_LCTL | MOD_RCTL | MOD_LSFT | MOD_RSFT | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
-            keep-mods = <(MOD_LCTL | MOD_RCTL | MOD_LSFT | MOD_RSFT | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
+            mods = <(MOD_LCTL | MOD_RCTL | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
+            keep-mods = <(MOD_LCTL | MOD_RCTL | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
         };
 
         encoder_kp: sensor_rotate_kp {
