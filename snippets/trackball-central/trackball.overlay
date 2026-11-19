@@ -44,16 +44,14 @@
 		xy-to-scroll-enabled;
 };
 
-// AUTO MOUSE: every pointer move, mouse button press/release,
-// and L3 wheel input refreshes the SAME 1,500ms inactivity timer.
+// AUTO MOUSE: pointer movement and mouse button presses refresh the 1,500ms timer.
+// I and comma are now L3 transparent keys and should exit temporary L3 like normal typing.
 &zip_temp_layer {
-    // Keep L3 while mouse click / wheel and modifier keys are used.
+    // Keep L3 while mouse clicks and modifier keys are used.
     // Ordinary text keys still exit L3 immediately.
     require-prior-idle-ms = <100>;
     excluded-positions = <
-        7        // I (L3 wheel up)
         16 17 18 // J/K/L mouse clicks
-        27       // comma (L3 wheel down)
         20 29    // Shift / right Shift mod-taps
         30 31 32 // left Ctrl, Win, Alt
         40 41    // right Win / right Ctrl mod-taps
@@ -67,8 +65,8 @@
 };
 
 &msc_input_listener {
-    // Only scrolls during L3 refresh the mouse layer; L0 joystick scroll
-    // does not activate L3 by itself.
+    // Retain the L3-only scroll hook for any future wheel bindings.
+    // L0 joystick scrolling does not activate L3 by itself.
     automouse_scroll_refresh {
         layers = <3>;
         input-processors = <&zip_temp_layer 3 1500>;
