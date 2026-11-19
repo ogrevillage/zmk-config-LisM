@@ -83,6 +83,16 @@
             keep-mods = <(MOD_LCTL | MOD_RCTL | MOD_LGUI | MOD_RGUI | MOD_RALT)>;
         };
 
+        // L5 right pinky: tap keypad minus; hold Shift for left-hand number symbols.
+        // Keep this independent from the global balanced &mt used by other keys.
+        num_minus_shift: num_minus_shift {
+            compatible = "zmk,behavior-hold-tap";
+            #binding-cells = <2>;
+            bindings = <&kp>, <&kp>;
+            flavor = "hold-preferred";
+            tapping-term-ms = <250>;
+        };
+
         encoder_kp: sensor_rotate_kp {
             compatible = "zmk,behavior-sensor-rotate-var";
             #sensor-binding-cells = <2>;
@@ -109,6 +119,8 @@
         combo_esc { timeout-ms = <50>; key-positions = <0 1>; bindings = <&kp ESC>; layers = <0>; };
         combo_tab { timeout-ms = <50>; key-positions = <10 11>; bindings = <&kp TAB>; layers = <0>; };
         combo_long_vowel { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp MINUS>; layers = <0 1 5>; };
+        // On FUNCTION only, O+P produces F11; elsewhere it remains the long-vowel combo.
+        combo_f11_func { timeout-ms = <50>; key-positions = <8 9>; bindings = <&kp F11>; layers = <2>; };
         combo_at { timeout-ms = <50>; key-positions = <13 16>; bindings = <&kp LEFT_BRACKET>; layers = <0>; };
         combo_paren_pair { timeout-ms = <50>; key-positions = <18 19>; bindings = <&paren_pair>; layers = <0 1 5>; };
         combo_bracket_pair { timeout-ms = <50>; key-positions = <28 29>; bindings = <&bracket_pair>; layers = <0 1 5>; };
@@ -123,7 +135,7 @@
                 &kp Q                 &kp W                 &kp E                 &kp R                 &kp T                 &kp Y                 &kp U                 &kp I                 &kp O                 &lt 4 P
                 &alt_only_a           &kp S                 &kp D                 &kp F                 &kp G                 &kp H                 &kp J                 &kp K                 &kp L                 &kp SEMI
                 &mt LSHIFT Z          &kp X                 &kp C                 &kp V                 &kp B                 &kp N                 &kp M                 &kp COMMA             &kp DOT               &mt RSHIFT APOS
-                &mt LCTRL ESCAPE      &kp LWIN              &kp LALT              &msc MOVE_Y(20)       &lt 5 DEL             &kp SPACE             &kp ENTER             &lt 2 BACKSPACE       &msc SCRL_UP          &none                 &mt RGUI INT1         &mt RCTRL SLASH
+                &kp LCTRL            &kp LWIN              &kp LALT              &msc MOVE_Y(20)       &lt 5 DEL             &kp SPACE             &kp ENTER             &lt 2 BACKSPACE       &msc SCRL_UP          &none                 &mt RGUI INT1         &mt RCTRL SLASH
                 &msc MOVE_X(-20)      &msc MOVE_Y(-20)      &msc MOVE_X(20)       &msc SCRL_LEFT        &msc SCRL_DOWN        &msc SCRL_RIGHT
             >;
             sensor-bindings = <&rsr_scrl &rsr_scrl>;
@@ -145,8 +157,8 @@
             display-name = "L2 FUNCTION";
             bindings = <
                 &kp F1                &kp F2                &kp F3                &kp F4                &kp F5                &kp F6                &kp F7                &kp F8                &kp F9                &kp F10
-                &kp TAB               &kp LG(LS(LEFT_ARROW)) &kp LG(UP_ARROW)     &kp LG(LS(RIGHT_ARROW)) &trans             &trans                &kp LEFT_ARROW        &kp UP_ARROW          &kp RIGHT_ARROW       &kp F11
-                &kp LEFT_SHIFT        &trans                &kp LG(DOWN_ARROW)   &trans                &trans                &trans                &trans                &kp DOWN_ARROW        &trans                &trans
+                &kp TAB               &kp LG(LS(LEFT_ARROW)) &kp LG(UP_ARROW)     &kp LG(LS(RIGHT_ARROW)) &trans             &trans                &kp LEFT_ARROW        &kp UP_ARROW          &kp DOWN_ARROW        &kp RIGHT_ARROW
+                &kp LEFT_SHIFT        &trans                &kp LG(DOWN_ARROW)   &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
             >;
@@ -165,11 +177,11 @@
         };
 
         layer_4 {
-            display-name = "L4 BT/DEVICE";
+            display-name = "L4 WIN/BT";
             bindings = <
-                &bt BT_SEL 0          &bt BT_SEL 1          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4          &trans                &trans                &trans                &trans                &trans
+                &kp LG(N1)            &kp LG(N2)            &kp LG(N3)            &kp LG(N4)            &kp LG(N5)          &trans                &trans                &trans                &trans                &trans
                 &kp A                 &trans                &bt BT_PRV            &bt BT_NXT            &trans                &trans                &trans                &trans                &trans                &trans
-                &trans            &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
+                &bt BT_SEL 0         &bt BT_SEL 1          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4          &trans                &trans                &trans                &trans                &trans
                 &bootloader           &bt BT_CLR_ALL        &trans                &trans                &trans                &trans                &studio_unlock        &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
             >;
@@ -180,7 +192,7 @@
             bindings = <
                 &kp N1                &kp N2                &kp N3                &kp N4                &kp N5                &kp N6                &kp N7                &kp N8                &kp N9                &kp KP_SLASH
                 &kp TAB               &trans                &trans                &trans                &kp LS(MINUS)         &kp APOS              &kp N4                &kp N5                &kp N6                &kp KP_MULTIPLY
-                &kp LEFT_SHIFT        &trans                &trans                &trans                &kp INT3              &kp N0                &kp N1                &kp N2                &kp N3                &kp KP_MINUS
+                &kp LEFT_SHIFT        &trans                &trans                &trans                &kp INT3              &kp N0                &kp N1                &kp N2                &kp N3                &num_minus_shift RSHIFT KP_MINUS
                 &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &none                 &kp PERIOD            &kp KP_PLUS
                 &trans                &trans                &trans                &trans                &trans                &trans
             >;
