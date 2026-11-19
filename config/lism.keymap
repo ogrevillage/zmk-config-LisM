@@ -154,11 +154,11 @@
 
         layer_3 {
             display-name = "L3 AUTO MOUSE";
-            // I / comma: vertical wheel up/down for Ctrl+wheel zoom, fine step 10.
+            // I / comma: pass through L0 (typing); mouse clicks remain on J/K/L.
             bindings = <
-                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &msc MOVE_Y(10)                &trans                &trans
+                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &kp A                 &trans                &trans                &trans                &trans                &trans                &mkp MB1              &mkp MB3              &mkp MB2              &trans
-                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &msc MOVE_Y(-10)                &trans                &trans
+                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans                &trans
                 &trans                &trans                &trans                &trans                &trans                &to 0                 &trans                &trans                &trans                &trans                &to 0                 &trans
                 &trans                &trans                &trans                &trans                &trans                &trans
             >;
